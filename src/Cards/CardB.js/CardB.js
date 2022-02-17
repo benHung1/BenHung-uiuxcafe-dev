@@ -9,7 +9,6 @@ import {
   ImgContainer,
   Img,
   TextContainer,
-  TextWrapper,
   TextTitle,
   TextContent,
   TextAbout,
