@@ -20,7 +20,8 @@ export const Wrapper = styled.div`
   border: 1px solid lightgray;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 15px 40px 0 rgba(0, 0, 0, 0.2), 0 0px 40px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0px 0px 40px 0 rgba(0, 0, 0, 0.2),
+    0 20px 20px 0 rgba(0, 0, 0, 0.19);
   position: relative;
 `;
 export const ImgContainer = styled.div``;
